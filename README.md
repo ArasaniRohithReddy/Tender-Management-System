@@ -56,7 +56,7 @@ LIVE NOW &#x1F534
 - 
 ### ========== Dummy Database Initialization USing SQLDUMP =====================
 
-STEPS: If you want to create table structure with dummy database, then follow the Steps given <a target="_blank" href="https://github.com/shashirajraja/Tender-Management-System/blob/master/DataBase/how-to-import-sql-dump-file.md">Here Inside DataBase/how-to-import-sql-dump-file</a>
+STEPS: If you want to create table structure with dummy database, then follow the Steps given <a target="_blank" href="https://github.com/ArasaniRohithReddy/Tender-Management-System/blob/main/DataBase/how-to-import-sql-dump-file.md">Here Inside DataBase/how-to-import-sql-dump-file</a>
 
 ### ================= Dummy Database Initialization USING QUERY =================
 
@@ -109,7 +109,7 @@ commit;
 ### ====== Importing and Running the Project Through Eclipse EE ===========
 Step 0: Open Eclipse Enterprise Edition. [Install if not available]
 
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/shashirajraja/Tender-Management-System.git``` > Next > Select Master Branch > Select Tender-Management-System\tendermanagement (Eclipse Project) > Next > Finish
+Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/ArasaniRohithReddy/Tender-Management-System.git``` > Next > Select Master Branch > Select Tender-Management-System\tendermanagement (Eclipse Project) > Next > Finish
 
 Step 2.a: Go inside ```tendermanagement > Java Resources > dbdetails.properties``` and update the value of username and password according to your installed mysql admin credentials
 
@@ -134,5 +134,7 @@ Step 8: Default Username And Password For User Is "shashi@gmail.com" and "shashi
 #### "Suggestions and project Improvements are always Invited!"
 
 <bold>Thanks a lot</bold><br/>
-                                                                                                        Project Leader<br/>
+                                                                                                        Project Contributor<br/>
+                                                                                                         <b>Arasani Rohith Reddy</b>
+													 Project Leader<br/>
                                                                                                          <b>Shashi Raj</b>
