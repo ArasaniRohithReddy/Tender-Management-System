@@ -135,6 +135,6 @@ Step 8: Default Username And Password For User Is "shashi@gmail.com" and "shashi
 
 <bold>Thanks a lot</bold><br/>
                                                                                                         Project Contributor<br/>
-                                                                                                         <b>Arasani Rohith Reddy</b>
+                                                                                                         <b>Arasani Rohith Reddy</b><br/>
 													 Project Leader<br/>
                                                                                                          <b>Shashi Raj</b>
